@@ -8,9 +8,13 @@
     font-family: 'poppins',sans-serif;
     color: aliceblue;
     position: relative;
+<<<<<<< HEAD
     scroll-margin: 0;
     height: 100vh;
    
+=======
+    height:100vh;
+>>>>>>> 0842d7e61feab7fc6597600dbe0236cdf458c299
     overflow-x: hidden;
     overflow-y: hidden;
 
