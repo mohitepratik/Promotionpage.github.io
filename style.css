@@ -8,7 +8,7 @@
     font-family: 'poppins',sans-serif;
     color: aliceblue;
     position: relative;
-   
+    height:100vh;
     overflow-x: hidden;
     overflow-y: hidden;
 
